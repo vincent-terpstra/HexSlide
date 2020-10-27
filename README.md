@@ -1,1 +1,1 @@
-"# HexSlide" 
+# HexSlide
